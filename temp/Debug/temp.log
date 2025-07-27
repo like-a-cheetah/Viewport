@@ -1,0 +1,35 @@
+﻿  lodepng.cpp
+  ObjMesh.cpp
+  코드를 생성하고 있습니다...
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\ObjMesh.cpp(83,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\ObjMesh.cpp(83,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\ObjMesh.cpp(83,12): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  meshFactory.cpp
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(69,15): warning C4146: 단항 빼기 연산자가 부호 없는 형식에 적용되었습니다. 결과는 역시 unsigned입니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(75,15): warning C4146: 단항 빼기 연산자가 부호 없는 형식에 적용되었습니다. 결과는 역시 unsigned입니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(81,15): warning C4146: 단항 빼기 연산자가 부호 없는 형식에 적용되었습니다. 결과는 역시 unsigned입니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(88,14): warning C4146: 단항 빼기 연산자가 부호 없는 형식에 적용되었습니다. 결과는 역시 unsigned입니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(92,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(92,59): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(92,88): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(9,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(71,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(77,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(83,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\meshFactory.cpp(91,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(130,21): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(130,29): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(130,37): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(131,21): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(131,28): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(131,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(132,21): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(132,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(132,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(320,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(321,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(328,22): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\klgg1\Desktop\PolygonMaker\Viewport\temp\main.cpp(329,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  temp.vcxproj -> C:\Users\klgg1\Desktop\PolygonMaker\Viewport\Debug\temp.exe

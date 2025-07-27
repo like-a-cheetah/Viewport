@@ -1,7 +1,7 @@
 # Viewport
 대학 강의 "AI게임프로그래밍" 수업의 텀 프로젝트 결과물 입니다.
-
 ---
+
 <img width="337" alt="image" src="https://github.com/user-attachments/assets/378c8904-3ac5-4827-9574-9d24414249ef"/>
 
 - 마우스 입력으로 점을 추가하고, 마지막 점까지 실시간 선(rubber band line) 및 숫자를 표시하며 폴리곤을 구성
